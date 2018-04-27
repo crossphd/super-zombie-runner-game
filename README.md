@@ -1,4 +1,4 @@
-# Block Breaker
+# Super Zombie Runner
 
 ## Overview
 Super Zombie Runner is a throwback 2D endless runner game I built with Unity and C#.
